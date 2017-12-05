@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "64014376028",
+    "firebase_url": "https://meagl3-a143f.firebaseio.com",
+    "project_id": "meagl3-a143f",
+    "storage_bucket": "meagl3-a143f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64014376028:android:2e7a4a776a7fd6c4",
+        "android_client_info": {
+          "package_name": "com.sharvai_sid.meagl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64014376028-uvmggp09lfe30foqq7ld8cv1kurmtaco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharvai_sid.meagl",
+            "certificate_hash": "ff479b403d5aabad87da7483f0cec10b442860b5"
+          }
+        },
+        {
+          "client_id": "64014376028-ci5lk6svnj329fikraso9e3tenogl9jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWwNxFFkEQnTpzhfuM2J8qUnMkY9QaCAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64014376028-ci5lk6svnj329fikraso9e3tenogl9jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
